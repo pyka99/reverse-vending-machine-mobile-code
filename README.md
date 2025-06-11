@@ -14,7 +14,7 @@ A mobile app for tracking plastic bottle recycling activities and rewarding user
 - Firebase (Authentication, Firestore, Cloud Storage)
 
 ## 📦 APK Download
-[Download APK here](https://github.com/your-username/your-repo/releases/download/v1.0/app-release.apk)
+
 
 > ⚠️ Make sure to enable "Install from unknown sources" in your phone settings.
 
@@ -31,4 +31,4 @@ v1.0 (Beta Release)
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📄 License
-[MIT](LICENSE)
+
